@@ -1,3 +1,2 @@
 # upskillGit4Me
-
-Understanding git. 
+Understanding git.
